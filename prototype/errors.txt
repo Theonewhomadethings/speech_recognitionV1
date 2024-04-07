@@ -1,0 +1,61 @@
+is the final transition probabilites
+
+meant to be -inf for some of the values
+
+Training HMM for class 11
+Iteration 1
+Iteration 2
+Iteration 3
+Final HMM parameters for class 11:
+Final Transition Probabilities:
+   1.0e+06 *
+
+   -0.0084   -0.2417      -Inf      -Inf      -Inf      -Inf      -Inf      -Inf
+      -Inf   -0.1607   -0.4023      -Inf      -Inf      -Inf      -Inf      -Inf
+      -Inf      -Inf   -0.3254   -0.5770      -Inf      -Inf      -Inf      -Inf
+      -Inf      -Inf      -Inf   -0.5003   -0.7640      -Inf      -Inf      -Inf
+      -Inf      -Inf      -Inf      -Inf   -0.6873   -0.9668      -Inf      -Inf
+      -Inf      -Inf      -Inf      -Inf      -Inf   -0.8900   -1.1916      -Inf
+      -Inf      -Inf      -Inf      -Inf      -Inf      -Inf   -1.1149   -1.4544
+      -Inf      -Inf      -Inf      -Inf      -Inf      -Inf      -Inf   -6.0824
+
+Final Emission Probabilities:
+        mu: [8×13 double]
+     Sigma: [13×13×8 double]
+    weight: [8×1 double]
+
+Training HMM for class 12
+Iteration 1
+Iteration 2
+.
+......
+.....
+Training HMM for class 13
+Iteration 1
+Iteration 2
+Iteration 3
+Final HMM parameters for class 13:
+Final Transition Probabilities:
+   1.0e+06 *
+
+   -0.0097   -0.2791      -Inf      -Inf      -Inf      -Inf      -Inf      -Inf
+      -Inf   -0.1856   -0.4647      -Inf      -Inf      -Inf      -Inf      -Inf
+      -Inf      -Inf   -0.3760   -0.6665      -Inf      -Inf      -Inf      -Inf
+      -Inf      -Inf      -Inf   -0.5780   -0.8826      -Inf      -Inf      -Inf
+      -Inf      -Inf      -Inf      -Inf   -0.7941   -1.1167      -Inf      -Inf
+      -Inf      -Inf      -Inf      -Inf      -Inf   -1.0282   -1.3764      -Inf
+      -Inf      -Inf      -Inf      -Inf      -Inf      -Inf   -1.2879   -1.6798
+      -Inf      -Inf      -Inf      -Inf      -Inf      -Inf      -Inf   -6.7288
+
+Final Emission Probabilities:
+        mu: [8×13 double]
+     Sigma: [13×13×8 double]
+    weight: [8×1 double]
+
+
+Final Emission Probabilities:
+        mu: [8×13 double]
+     Sigma: [13×13×8 double]
+    weight: [8×1 double]
+
+    
